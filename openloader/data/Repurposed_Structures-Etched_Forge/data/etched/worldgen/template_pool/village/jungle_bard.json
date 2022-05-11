@@ -1,0 +1,15 @@
+{
+  "name": "etched:village/jungle_bard",
+  "fallback": "etched:village/jungle_bard",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "etched:village/jungle/jungle_bard_house_1",
+        "processors": "repurposed_structures:village/jungle/mossify",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

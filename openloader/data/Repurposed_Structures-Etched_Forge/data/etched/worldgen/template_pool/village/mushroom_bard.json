@@ -1,0 +1,15 @@
+{
+  "name": "etched:village/mushroom_bard",
+  "fallback": "etched:village/mushroom_bard",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "etched:village/mushroom/mushroom_bard_house_1",
+        "processors": "repurposed_structures:village/mushroom/general_randomizer",
+        "projection": "rigid",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}
