@@ -1,0 +1,13 @@
+name = "Infernal Expansion"
+filename = "infernal-expansion-1.16.5-2.4.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3526/21/infernal-expansion-1.16.5-2.4.0.jar"
+hash-format = "sha1"
+hash = "2772202c597fe07a23e8066eb981804751d31c82"
+
+[update]
+[update.curseforge]
+file-id = 3526021
+project-id = 395078

@@ -1,0 +1,13 @@
+name = "Custom Starter Gear"
+filename = "CustomStartingGear-1.16.5-2.0.3-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3434/458/CustomStartingGear-1.16.5-2.0.3-universal.jar"
+hash-format = "sha1"
+hash = "fa0ef0a22321c9f56872e02e86ea73a93a2ee18b"
+
+[update]
+[update.curseforge]
+file-id = 3434458
+project-id = 253735

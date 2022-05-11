@@ -1,0 +1,13 @@
+name = "Momentum"
+filename = "Momentum-1.16.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3232/299/Momentum-1.16.4-1.0.0.jar"
+hash-format = "sha1"
+hash = "715a50ced708794b75a892db9be210882e08484d"
+
+[update]
+[update.curseforge]
+file-id = 3232299
+project-id = 454174

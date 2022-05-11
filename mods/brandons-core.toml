@@ -1,0 +1,13 @@
+name = "Brandon's Core"
+filename = "BrandonsCore-1.16.5-3.0.14.247-universal.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3775/813/BrandonsCore-1.16.5-3.0.14.247-universal.jar"
+hash-format = "sha1"
+hash = "e105155c32bcc1e40af5801c6addc281f77d3601"
+
+[update]
+[update.curseforge]
+file-id = 3775813
+project-id = 231382

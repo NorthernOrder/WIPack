@@ -1,0 +1,13 @@
+name = "Alex's Abnormalities"
+filename = "Alex's Abnormalities 1.1 - Forge 1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3627/461/Alex%27s%20Abnormalities%201.1%20-%20Forge%201.16.5.jar"
+hash-format = "sha1"
+hash = "1d77469821c6fbb918e59a9bbfc3959542f1924a"
+
+[update]
+[update.curseforge]
+file-id = 3627461
+project-id = 571039

@@ -1,0 +1,13 @@
+name = "Compact Crafting"
+filename = "compactcrafting-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3545/959/compactcrafting-1.0.0.jar"
+hash-format = "sha1"
+hash = "22e33e26d5e92d4ba3778968a1924fb402f4b903"
+
+[update]
+[update.curseforge]
+file-id = 3545959
+project-id = 429735

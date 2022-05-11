@@ -1,0 +1,13 @@
+name = "Pretty Pipes"
+filename = "PrettyPipes-1.9.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3724/799/PrettyPipes-1.9.8.jar"
+hash-format = "sha1"
+hash = "83ae5747940374e6fcfeff6bdbbd41a697c960d2"
+
+[update]
+[update.curseforge]
+file-id = 3724799
+project-id = 376737

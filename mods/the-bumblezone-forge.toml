@@ -1,0 +1,13 @@
+name = "The Bumblezone (Forge)"
+filename = "the_bumblezone_forge-3.2.1+1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3537/997/the_bumblezone_forge-3.2.1+1.16.5.jar"
+hash-format = "sha1"
+hash = "5c5d267999884525f8168b9ea0f31f1dc50183ae"
+
+[update]
+[update.curseforge]
+file-id = 3537997
+project-id = 362479

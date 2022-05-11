@@ -1,0 +1,13 @@
+name = "Eidolon Data Recipes"
+filename = "eidolonrecipes-2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3768/291/eidolonrecipes-2.7.jar"
+hash-format = "sha1"
+hash = "79717b7e76be3226e7faa2efe6bb6ff1ab0e6e71"
+
+[update]
+[update.curseforge]
+file-id = 3768291
+project-id = 559237

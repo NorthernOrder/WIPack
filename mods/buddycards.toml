@@ -1,0 +1,13 @@
+name = "Buddycards"
+filename = "Buddycards-1.16.5-2.5.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3576/87/Buddycards-1.16.5-2.5.3.jar"
+hash-format = "sha1"
+hash = "fcd09e4856b1ede2748e22666d7ea53cdb5754fe"
+
+[update]
+[update.curseforge]
+file-id = 3576087
+project-id = 425991

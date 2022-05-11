@@ -1,0 +1,13 @@
+name = "FTB Quests (Forge)"
+filename = "ftb-quests-forge-1605.3.6-build.98.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3672/855/ftb-quests-forge-1605.3.6-build.98.jar"
+hash-format = "sha1"
+hash = "8fd4b9a42244360d8d54568658297d58996a4ece"
+
+[update]
+[update.curseforge]
+file-id = 3672855
+project-id = 289412

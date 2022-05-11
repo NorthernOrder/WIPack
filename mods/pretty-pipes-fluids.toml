@@ -1,0 +1,13 @@
+name = "Pretty Pipes: Fluids"
+filename = "PrettyPipesFluids-0.4.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3368/538/PrettyPipesFluids-0.4.1.jar"
+hash-format = "sha1"
+hash = "00d5730f90bd712a0400a40fc6c351da43114d60"
+
+[update]
+[update.curseforge]
+file-id = 3368538
+project-id = 479142

@@ -1,0 +1,13 @@
+name = "Masterful Machinery"
+filename = "MasterfulMachinery-1.16.5-0.1.61-hf-B921.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3750/142/MasterfulMachinery-1.16.5-0.1.61-hf-B921.jar"
+hash-format = "sha1"
+hash = "aea9e79f18d63fc4c4fce8fedef5b96bb987ea39"
+
+[update]
+[update.curseforge]
+file-id = 3750142
+project-id = 423476

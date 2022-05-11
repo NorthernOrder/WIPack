@@ -1,0 +1,13 @@
+name = "Pyromancer"
+filename = "pyromancer 1.7.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3608/459/pyromancer%201.7.0.3.jar"
+hash-format = "sha1"
+hash = "9ab944b7aace6e8afec1a235d195cee8d8db1fba"
+
+[update]
+[update.curseforge]
+file-id = 3608459
+project-id = 471135

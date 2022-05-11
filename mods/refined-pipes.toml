@@ -1,0 +1,13 @@
+name = "Refined Pipes"
+filename = "refinedpipes-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3630/290/refinedpipes-0.5.2.jar"
+hash-format = "sha1"
+hash = "8e7468c3d06093ea816a989c09e20fa20090000a"
+
+[update]
+[update.curseforge]
+file-id = 3630290
+project-id = 370696

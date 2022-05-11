@@ -1,0 +1,13 @@
+name = "Corpse Complex"
+filename = "corpsecomplex-forge-1.16.5-4.0.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3725/390/corpsecomplex-forge-1.16.5-4.0.2.7.jar"
+hash-format = "sha1"
+hash = "0775c2db928cbd539f52d10814cf291c36050e08"
+
+[update]
+[update.curseforge]
+file-id = 3725390
+project-id = 271605

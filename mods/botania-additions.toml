@@ -1,0 +1,13 @@
+name = "Botania Additions"
+filename = "BotaniaAdditionsMC1.16.4-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3139/471/BotaniaAdditionsMC1.16.4-1.0.4.jar"
+hash-format = "sha1"
+hash = "253ac6b590d35d7dcf88851aad43dae4902eb499"
+
+[update]
+[update.curseforge]
+file-id = 3139471
+project-id = 359289

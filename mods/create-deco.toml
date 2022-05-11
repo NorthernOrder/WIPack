@@ -1,0 +1,13 @@
+name = "Create Deco"
+filename = "createdeco-1.1.2-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3503/936/createdeco-1.1.2-1.16.5.jar"
+hash-format = "sha1"
+hash = "fe66cfc84cd12fad511da1ac50570f23aabb3b33"
+
+[update]
+[update.curseforge]
+file-id = 3503936
+project-id = 509285

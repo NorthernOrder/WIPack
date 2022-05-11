@@ -1,0 +1,13 @@
+name = "Champions"
+filename = "champions-forge-1.16.5-2.0.1.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3742/182/champions-forge-1.16.5-2.0.1.13.jar"
+hash-format = "sha1"
+hash = "c529b3ad8f143290239eaf07ee3ccc4d0f625f98"
+
+[update]
+[update.curseforge]
+file-id = 3742182
+project-id = 307152

@@ -1,0 +1,13 @@
+name = "Ensorcellation"
+filename = "ensorcellation-1.16.5-1.4.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3607/544/ensorcellation-1.16.5-1.4.1.2.jar"
+hash-format = "sha1"
+hash = "df15b7fed837c53198de58215ee4991431391162"
+
+[update]
+[update.curseforge]
+file-id = 3607544
+project-id = 349447
