@@ -9,6 +9,10 @@ file = "config/Advancedperipherals/world.toml"
 hash = "13527835f4ed4ee26f65a21676c47ebcdd665ee9d8d5ed5471e7e24ce6163c6b"
 
 [[files]]
+file = "config/Mekanism/world.toml"
+hash = "8304d28ecd2521039a35a46651c3042732ded9f1aca34ada1c1bdb4a5055a927"
+
+[[files]]
 file = "config/akashictome-common.toml"
 hash = "9d4d41b6a4e0f9cf8ae7bbf88bea6b70fc889280106c7cbc4afcf930fb743064"
 
@@ -49,6 +53,10 @@ file = "config/charm-common.toml"
 hash = "247c52b2144560c572938e15b31c8b63f75c516d91ea1d8a22f63565fc733751"
 
 [[files]]
+file = "config/create-common.toml"
+hash = "2e5a02f155da626823047078bee8086f0f92b6fb4336dc7225ee321afc565b23"
+
+[[files]]
 file = "config/darkerdepths-common.toml"
 hash = "d1b51da8808c8a0b639a5324a664e083ec47f99f9699de09a530ce0bf86420dd"
 
@@ -85,6 +93,10 @@ file = "config/defaultoptions/options.txt"
 hash = "3a4216887aa638bdc1edc3fce5a2d6d408dcae22d1ab04a7a190e0c23817f6db"
 
 [[files]]
+file = "config/eidolon-common.toml"
+hash = "9115158ce4475e7f335e540fb943e7777811a12f767295017fa3ea337b593c9a"
+
+[[files]]
 file = "config/fml.toml"
 hash = "e6bba37cbb5104f68f2d4246441e332b206c21edfb7a039a3939115cb2f3047a"
 
@@ -111,6 +123,10 @@ hash = "38dab181a52ab3bb554d9a056ea156a17a10fffa0bbc8b4b308952af124e9f8a"
 [[files]]
 file = "config/neat-client.toml"
 hash = "d56be3a22f90cfa3a0f5f089e81b62ccc8be51f24f433d9d4ab03cc2c9c12b57"
+
+[[files]]
+file = "config/occultism-common.toml"
+hash = "f415bbd4c5d490f0ab7da486ee015e2a5c7e051433e4b1d0344bd31494db5bbb"
 
 [[files]]
 file = "config/paraglider-common.toml"
@@ -159,6 +175,14 @@ hash = "9e9a79be5ca143786391ba6daf6d659dbdf17d1570dca030485afe5423c78055"
 [[files]]
 file = "defaultconfigs/hats-server.toml"
 hash = "bef547f1d1da7e898a0658364939697d3253a5509a3631ada8fbdebb72437bad"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "68f4db59e05dc0db3367e5536b95589cc01f3fd3be69835cbc7b9c988e8c6467"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "3938f9ec4f917959559be0d4b4925ab87b6e17c23f29f11506ab61ff15261752"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
