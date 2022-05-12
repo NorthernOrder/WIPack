@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".prettierrc"
+hash = "07ec1f51767a95104e3be75d6e2f235a1057aeeb27cc27f494e3c943ba5bc408"
+
+[[files]]
 file = "config/Advancedperipherals/world.toml"
 hash = "13527835f4ed4ee26f65a21676c47ebcdd665ee9d8d5ed5471e7e24ce6163c6b"
 
@@ -33,12 +37,20 @@ file = "config/bigbrain-common.toml"
 hash = "6ecb136d19abe6b912ffa2ded761b041409ea942db710cac88cf61c366b6f13c"
 
 [[files]]
+file = "config/cavesandcliffs-common.toml"
+hash = "45540b239b400d7f85448c7a9c406a0b9ea887a3c5e8be36477fb318c50c35ea"
+
+[[files]]
 file = "config/chalk-common.toml"
 hash = "20d7eaff926ef3340ac09bac4bd07d690c7ff4e37cbe5fcf1a2038d3d71b6ab2"
 
 [[files]]
 file = "config/charm-common.toml"
 hash = "247c52b2144560c572938e15b31c8b63f75c516d91ea1d8a22f63565fc733751"
+
+[[files]]
+file = "config/darkerdepths-common.toml"
+hash = "d1b51da8808c8a0b639a5324a664e083ec47f99f9699de09a530ce0bf86420dd"
 
 [[files]]
 file = "config/defaultoptions/extra/journeymap/config/5.8/journeymap.core.config"
@@ -193,8 +205,8 @@ file = "kubejs/server_scripts/settings.js"
 hash = "9c4ce9acc62e2953f382690e48def8ba5d396223a74aa18b645bb07237188787"
 
 [[files]]
-file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+file = "kubejs/startup_scripts/ores.js"
+hash = "941a340f1761cd43d034992382f97423f7a0d7f728133d29e5b4ddee15e076af"
 
 [[files]]
 file = "local/ftbchunks/client-config.snbt"
