@@ -1,0 +1,33 @@
+Vanilla Tweaks Resource Pack
+Version: 1.16
+Packs:
+	CherryPicking
+	DifferentStems
+	PlainLeatherArmor
+	SplashXpBottle
+	FlintTippedArrows
+	GoldenCrown
+	UniqueDyes
+	BetterParticles
+	RedIronGolemFlowers
+	DarkerDarkOakLeaves
+	CircularSunandMoon
+	BetterBedrock
+	PingColorIndicator
+	JappaCompass
+	JappaClock
+	JappaPaintingBack
+	JappaToasts
+	PixelConsistentElderGuardian
+	PixelConsistentWither
+	TripwireHookFix
+	PixelConsistentXPOrbs
+	PixelConsistentGuardianBeam
+	BlazeFix
+	EffectBoxFix
+	BrewingStandIconsFix
+	StonecutterFix
+	SmokerFix
+	AlternateEnchantGlint
+	UnobtrusiveSnow
+	UnobtrusiveRain
