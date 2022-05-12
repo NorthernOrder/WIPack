@@ -27,7 +27,7 @@ showChestContentsDetailed = "EXTENDED"
 #Show redstone (0 = not, 1 = always, 2 = sneak)
 showRedstone = "NORMAL"
 #Show mob health (0 = not, 1 = always, 2 = sneak)
-showMobHealth = "NORMAL"
+showMobHealth = "NOT"
 #Show time to adulthood for baby mobs (0 = not, 1 = always, 2 = sneak)
 showMobGrowth = "NORMAL"
 #Show mob potion effects (0 = not, 1 = always, 2 = sneak)
