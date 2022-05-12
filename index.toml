@@ -97,6 +97,10 @@ file = "config/eidolon-common.toml"
 hash = "9115158ce4475e7f335e540fb943e7777811a12f767295017fa3ea337b593c9a"
 
 [[files]]
+file = "config/emendatusenigmatica-common.toml"
+hash = "c80e2ce04ae354260667b737f6201bb949af3fcfe74618d3601037d1b24d2974"
+
+[[files]]
 file = "config/fml.toml"
 hash = "e6bba37cbb5104f68f2d4246441e332b206c21edfb7a039a3939115cb2f3047a"
 
