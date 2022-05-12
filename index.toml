@@ -5,8 +5,20 @@ file = "config/Advancedperipherals/world.toml"
 hash = "13527835f4ed4ee26f65a21676c47ebcdd665ee9d8d5ed5471e7e24ce6163c6b"
 
 [[files]]
+file = "config/akashictome-common.toml"
+hash = "9d4d41b6a4e0f9cf8ae7bbf88bea6b70fc889280106c7cbc4afcf930fb743064"
+
+[[files]]
 file = "config/alexsmobs.toml"
 hash = "2ee64676d7f7a659c078032b2f8dccf81203f2a9ff65bf1b1927f789fd7fa8d7"
+
+[[files]]
+file = "config/apotheosis/apotheosis.cfg"
+hash = "495ff8437e90c541e86e7b2e38033414f762c15b5bb228216db7877b9470534b"
+
+[[files]]
+file = "config/apotheosis/garden.cfg"
+hash = "28cb47e38ad390a5e6dc7e147453dac479ced8554f22df0cc8cfa2a24c2c3d2a"
 
 [[files]]
 file = "config/ars_nouveau-common.toml"
@@ -15,6 +27,14 @@ hash = "d3302454f068b4ddeaa49687b0cf3ecdb0565f82271d15f24853d476f49253ed"
 [[files]]
 file = "config/astralsorcery-common.toml"
 hash = "05cb8ba9dbea9a0885b3bf6b2937bfeb3da141aa634238177441bb3ea01cce00"
+
+[[files]]
+file = "config/bigbrain-common.toml"
+hash = "6ecb136d19abe6b912ffa2ded761b041409ea942db710cac88cf61c366b6f13c"
+
+[[files]]
+file = "config/chalk-common.toml"
+hash = "20d7eaff926ef3340ac09bac4bd07d690c7ff4e37cbe5fcf1a2038d3d71b6ab2"
 
 [[files]]
 file = "config/charm-common.toml"
@@ -89,6 +109,10 @@ file = "config/quark-common.toml"
 hash = "2cfe90dad84e3f89ffb71c92d9e7ee1c1aafd5f93f330b80ba16154fdfcd321d"
 
 [[files]]
+file = "config/randompatches.toml"
+hash = "3fa1275c4a7703559b43ff02a00219a59b6d84cf23c4ada4aa9bb3f0868f8455"
+
+[[files]]
 file = "config/survivalist-common.toml"
 hash = "2f6eaa0e1916b4db4d791b8e896b57f0c6d971dc31a333fba11715e5a3ce2abb"
 
@@ -121,8 +145,12 @@ file = "defaultconfigs/carryon-server.toml"
 hash = "9e9a79be5ca143786391ba6daf6d659dbdf17d1570dca030485afe5423c78055"
 
 [[files]]
+file = "defaultconfigs/hats-server.toml"
+hash = "bef547f1d1da7e898a0658364939697d3253a5509a3631ada8fbdebb72437bad"
+
+[[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "9e4d44a6467be58ec2ac5df4d349721e0a031d204550708fc530455b18afd92b"
+hash = "ec7c79ad9a2173f42236df702c2b1b29ed6287a9c0df24a7645d3001ca5c6582"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -998,11 +1026,6 @@ hash = "17dbf43186634a67f360961a9f69a2a49e6e553b537f84e0b290dc8f73cdb722"
 metafile = true
 
 [[files]]
-file = "mods/forgery.toml"
-hash = "4f6f804cf953431d4103de9a9f9738827ddd8ff96f8ef838b6c60926dd604deb"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.toml"
 hash = "2b9829bd888cb8248f1324666ed5f9575cf362a0bf63d9197edb50b07502ff8b"
 metafile = true
@@ -1565,11 +1588,6 @@ metafile = true
 [[files]]
 file = "mods/pretty-pipes.toml"
 hash = "9ed1a2e3fb8d3d06d4ce35b0a5492504f133ede25930b83160c5e2a8b8a1d586"
-metafile = true
-
-[[files]]
-file = "mods/productivebees.toml"
-hash = "5ac0863a8553b54623ab5a6e22c4bdda255c15923a806b33cc85eee687f4ec31"
 metafile = true
 
 [[files]]
