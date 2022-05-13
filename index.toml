@@ -90,7 +90,7 @@ hash = "3d00d23a6569cefee3a212191eac0580705ee076cd73738fd22b93fcad6622ab"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "3a4216887aa638bdc1edc3fce5a2d6d408dcae22d1ab04a7a190e0c23817f6db"
+hash = "87f5f17fc8a84c0d726ccf735b7c702b20c2191836bb2704517e2c1c9b9032f4"
 
 [[files]]
 file = "config/eidolon-common.toml"
@@ -1151,11 +1151,6 @@ hash = "c6713f2c76a6fee256df86655748111c2189ca2ce99d4b47c243fc886faf72ee"
 metafile = true
 
 [[files]]
-file = "mods/illagers.toml"
-hash = "21caad8bb874e68330c8110f98c82c2e45cee7d1fb97811c92d1714e730d68f9"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "161bb751902a3f8f4a8d9fb5efbdf8213692e4f2019741c909bb1b32075ab457"
 metafile = true
@@ -1768,11 +1763,6 @@ metafile = true
 [[files]]
 file = "mods/rslargepatterns.toml"
 hash = "fe2eb62c5332130d6f27fb82cb62e624ebdd1963caf5ac1ed858cd719a50fef8"
-metafile = true
-
-[[files]]
-file = "mods/rubber-duck.toml"
-hash = "3c9d45b6fdbc5647a43f0e3726a38170bd763650c8ee1b4c2ee205e8de062d74"
 metafile = true
 
 [[files]]
@@ -7048,7 +7038,3 @@ hash = "ba2ea43e84a0f3628761793f97e6662a3bfc91886be7fecdcc9387b7472a044b"
 [[files]]
 file = "resourcepacks/Updated_Engineering_v1.4.zip"
 hash = "45c2717a5655b1a63ff24d10405f2ee3c0f0dcf497c37ff930928329520b0e46"
-
-[[files]]
-file = "resourcepacks/illagers_plus_plus_plus_v1.1.zip"
-hash = "292315df142697c987049e6d6868e596448bead71489a1915ed19b30c48b79ec"
