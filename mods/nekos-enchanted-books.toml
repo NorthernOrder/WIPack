@@ -1,6 +1,6 @@
 name = "Neko's Enchanted Books"
 filename = "NekosEnchantedBooks-1.16-1.7.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://edge.forgecdn.net/files/3780/206/NekosEnchantedBooks-1.16-1.7.0.jar"
