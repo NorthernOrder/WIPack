@@ -1,13 +1,13 @@
 name = "Grappling Hook Mod"
-filename = "grapplemod-1.16.5-v12.3.jar"
+filename = "grappling_hook_mod-1.16.5-v13.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3711/95/grapplemod-1.16.5-v12.3.jar"
 hash-format = "sha1"
-hash = "c28b1879693a418ca4ea2926c8a819616ca1bcb4"
+hash = "99c2fb6070662b60745a245c38a0995c316c6953"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3711095
+file-id = 3795232
 project-id = 238911

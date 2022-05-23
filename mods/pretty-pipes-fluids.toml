@@ -1,13 +1,13 @@
 name = "Pretty Pipes: Fluids"
-filename = "PrettyPipesFluids-0.4.1.jar"
+filename = "PrettyPipesFluids-1.16.5-0.4.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3368/538/PrettyPipesFluids-0.4.1.jar"
 hash-format = "sha1"
-hash = "00d5730f90bd712a0400a40fc6c351da43114d60"
+hash = "0fa0f910cb736215d2b0ecd3d47aa7d78c9321d5"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3368538
+file-id = 3800584
 project-id = 479142

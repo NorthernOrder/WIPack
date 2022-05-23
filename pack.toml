@@ -1,12 +1,12 @@
 name = "Wipack"
 author = "Ozoku"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c3e4193e39e497bdb7a0dc0d38b03011de580eb5cc679950c4f4ba49e1c2a9c1"
+hash = "d97a1d3b88ac4ab27a1e76a5f0d86d3e0d27f6fc2dc1786977124aa896440eba"
 
 [versions]
 forge = "36.2.34"

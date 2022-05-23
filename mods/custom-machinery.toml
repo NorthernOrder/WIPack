@@ -1,13 +1,13 @@
 name = "Custom Machinery"
-filename = "custommachinery-1.16.5-0.5.8c.jar"
+filename = "custommachinery-1.16.5-0.5.8f.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3772/915/custommachinery-1.16.5-0.5.8c.jar"
 hash-format = "sha1"
-hash = "8bcf569a2c5ccb1dd72d631b7db97f8aa27a129b"
+hash = "2678d2f1ad602d33ef914fbd28a9b1bfa8b96c3a"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3772915
+file-id = 3787990
 project-id = 457017

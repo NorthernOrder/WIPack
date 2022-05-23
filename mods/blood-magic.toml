@@ -1,13 +1,13 @@
 name = "Blood Magic "
-filename = "BloodMagic-1.16.4-3.1.7-27.jar"
+filename = "BloodMagic-1.16.4-3.1.10-31.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3568/763/BloodMagic-1.16.4-3.1.7-27.jar"
 hash-format = "sha1"
-hash = "a2750a50bc95b20432aecefea7a69d975cd452ae"
+hash = "1e0fe029297c35926cbd8df0f15ff1c6ea3cbe73"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3568763
+file-id = 3796186
 project-id = 224791
