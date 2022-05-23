@@ -286,11 +286,6 @@ hash = "567d2ad87eca97b26204c6b61256cf748b4aa56f8cd3a20e30292c808d86ddeb"
 metafile = true
 
 [[files]]
-file = "mods/anchor.toml"
-hash = "8c1feb9d6466f02ea0ef4862c9b667ca1beef473763d1d7a17756c2a6c85c9ad"
-metafile = true
-
-[[files]]
 file = "mods/apotheosis.toml"
 hash = "8f57f44a5f10215e93d6ef1789c65c3f774cf92d65f0280ba715989015160e57"
 metafile = true
@@ -1678,11 +1673,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-pen.toml"
 hash = "c29dfdfb3c3a0fc5b177b1d123673caf07c52cb50569f782e2bb61671abe7ae1"
-metafile = true
-
-[[files]]
-file = "mods/refined-pipes.toml"
-hash = "7e8cca0e1633c7ff8c530f2c1c1532f9f1c63ee6717f36bbdbbe08625442f2f6"
 metafile = true
 
 [[files]]
