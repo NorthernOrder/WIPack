@@ -721,11 +721,6 @@ hash = "69a960db44443b035d079cdd948c28b945657e1f0f22de72a8eea1e6383a978c"
 metafile = true
 
 [[files]]
-file = "mods/create-cafe.toml"
-hash = "6368c69e3f86d27c980f58bc10bee59e27ce544d4b892f609a84722670e2dd13"
-metafile = true
-
-[[files]]
 file = "mods/create-deco.toml"
 hash = "ab082ed68f535121f3353f0f91d00b0cddcf83d4f5ebf06a80f49a98816071ac"
 metafile = true
@@ -1968,11 +1963,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-foundation.toml"
 hash = "f80c3917f5d6b3299a8d2a969ef308bc1676f533f57490c5feaa2a79fc41ca49"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.toml"
-hash = "5ab466c17ae6d99f49bb81256f9e2c8add143ccba561f1fd9eb30cdacbd351ec"
 metafile = true
 
 [[files]]
