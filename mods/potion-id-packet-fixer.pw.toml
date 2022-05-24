@@ -1,0 +1,13 @@
+name = "Potion ID Packet Fixer"
+filename = "potionidpacketfixer-1.16.5-v1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "675f9989954a40d790fbd2ae00ab7ce13561ad83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3604167
+project-id = 566466

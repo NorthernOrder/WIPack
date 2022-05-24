@@ -1,0 +1,13 @@
+name = "Biome Id Fixer (Forge)"
+filename = "biomeidfixer-1.16.5-1.0.1.s5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a792e6441ac07ad926a73c727b8b3d09f06d907d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3446595
+project-id = 438074
