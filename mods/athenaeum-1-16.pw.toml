@@ -1,0 +1,13 @@
+name = "Athenaeum 1.16"
+filename = "athenaeum-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d53db47856fe7e5d0a141c0df7830caf97c38879"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3466387
+project-id = 437531

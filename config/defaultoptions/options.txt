@@ -3,4 +3,4 @@ guiScale:3
 joinedFirstServer:true
 skipMultiplayerWarning:true
 tutorialStep:none
-resourcePacks:["vanilla","mod_resources","inspirations:config_resources","quark:emote_resources","file/Create Style Vanilla+Modded v10-1.16.zip","file/Better Flint Tools v1.1 - 1.16+.zip","file/RefinedPipes - Recreated_1.1.1.zip","file/Simply Tea - Rebrewed v1.0.zip","file/Tool Belt Retextured.zip","file/Updated_Engineering_v1.4.zip"]
+resourcePacks:["vanilla","mod_resources","inspirations:config_resources","quark:emote_resources","file/Create Style Vanilla+Modded v10-1.16.zip","file/Better Flint Tools v1.1 - 1.16+.zip","file/Simply Tea - Rebrewed v1.0.zip","file/Tool Belt Retextured.zip","file/Updated_Engineering_v1.4.zip"]

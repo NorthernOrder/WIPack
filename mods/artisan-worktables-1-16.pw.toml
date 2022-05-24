@@ -1,0 +1,13 @@
+name = "Artisan Worktables 1.16"
+filename = "artisanworktables-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6dd5545adf8d537f4600dc2c393fe5a49a106307"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3277959
+project-id = 437529

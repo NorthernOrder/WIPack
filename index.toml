@@ -90,7 +90,7 @@ hash = "3d00d23a6569cefee3a212191eac0580705ee076cd73738fd22b93fcad6622ab"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "87f5f17fc8a84c0d726ccf735b7c702b20c2191836bb2704517e2c1c9b9032f4"
+hash = "425636dde2753810aea752ee86cbf569ba5692b4f07eace35840d4621bc29df7"
 
 [[files]]
 file = "config/eidolon-common.toml"
@@ -190,7 +190,7 @@ hash = "3938f9ec4f917959559be0d4b4925ab87b6e17c23f29f11506ab61ff15261752"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "ec7c79ad9a2173f42236df702c2b1b29ed6287a9c0df24a7645d3001ca5c6582"
+hash = "65cfd863d1f0153bf24f4dc9251542200b8b5095fd4e1f3eed6f43852773775b"
 
 [[files]]
 file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
@@ -331,8 +331,23 @@ hash = "89bc7fbacdf022fd49e172c62d4a47bd52ec89118226eafc92b318e6b79dd4e0"
 metafile = true
 
 [[files]]
+file = "mods/artisan-tools-1-16.pw.toml"
+hash = "a3643f679a1522ff882262225c180542b1ec660668d4614d27587546b729fee5"
+metafile = true
+
+[[files]]
+file = "mods/artisan-worktables-1-16.pw.toml"
+hash = "f3e2e8e14ea938564a8416ba8c74940d2d05c7484f5feda12a5717ac1c9c413d"
+metafile = true
+
+[[files]]
 file = "mods/astral-sorcery.toml"
 hash = "03c21a016917de0cd5ba428d2beaab566620cd8d4fecb6c13c7a8efeab1eb243"
+metafile = true
+
+[[files]]
+file = "mods/athenaeum-1-16.pw.toml"
+hash = "772ec4f1b684fd9d24b5b4c99940cbbc992739967b14ea42de64535a116210ab"
 metafile = true
 
 [[files]]
@@ -426,8 +441,8 @@ hash = "f44c22abdfa19533af5ef7fa06325453c42529b818ba5825e3e5ea562cb18ac3"
 metafile = true
 
 [[files]]
-file = "mods/blockcarpentry.toml"
-hash = "162ea233e1667b4903b16f883a8d0d4fac5602bd933b462236e510fa52928c26"
+file = "mods/block-swap.pw.toml"
+hash = "4180255172e5f656552148ffed7bf2b76d9357eb195dd7b91bea757995dda2a4"
 metafile = true
 
 [[files]]
@@ -721,6 +736,11 @@ hash = "69a960db44443b035d079cdd948c28b945657e1f0f22de72a8eea1e6383a978c"
 metafile = true
 
 [[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "c17c6244ae61d440c9e9bb5b2f95ffb0f3c62745f6982e5ed2ba59c16a5d5e4b"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.toml"
 hash = "ab082ed68f535121f3353f0f91d00b0cddcf83d4f5ebf06a80f49a98816071ac"
 metafile = true
@@ -878,11 +898,6 @@ metafile = true
 [[files]]
 file = "mods/drink-beer-forge.toml"
 hash = "0365e4b1d6fbe9a0f3fcc9c5821848d070c4c3a08d60e3461810a07534a5b0c5"
-metafile = true
-
-[[files]]
-file = "mods/druidcraft.toml"
-hash = "bcb9bfd770bf43981649b952a90ba674b10ad9c8c09f3323205829683c90f33b"
 metafile = true
 
 [[files]]
@@ -1051,11 +1066,6 @@ hash = "3a332123aec6bda27daffae9f04ccf3d0d71baa4cf3cea0ce2d5823ac9e3d432"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.toml"
-hash = "17dbf43186634a67f360961a9f69a2a49e6e553b537f84e0b290dc8f73cdb722"
-metafile = true
-
-[[files]]
 file = "mods/fps-reducer.toml"
 hash = "2b9829bd888cb8248f1324666ed5f9575cf362a0bf63d9197edb50b07502ff8b"
 metafile = true
@@ -1063,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/framed-compacting-drawers.toml"
 hash = "44419dc5f06290c73ddd322edbf4c8084dbef7d9a2b3076301e7c94797cea60b"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "1405e988ddf54772dfdd50ae12c54b07b8f1a7a7b72323a2f30dbb0537bcb787"
 metafile = true
 
 [[files]]
@@ -1153,11 +1168,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "331561c4195dcfc4f68c4a71f54bafd93d8972a32e6dc0e2c7a6d6a4bae26dae"
-metafile = true
-
-[[files]]
-file = "mods/in-control.toml"
-hash = "92805b5ab0b303a40959eaebb284b627ab5b83a6c97dc2990729fe363abc2618"
 metafile = true
 
 [[files]]
@@ -1266,11 +1276,6 @@ hash = "c9761a715835adfafe54224931cf71ba172fc1aa24d069f4b4aa3925cb649fb1"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.toml"
-hash = "a62dea730645bd75c3f81047e2b38d8cc808c11f037f5f7ac945ff4ad7cb97f5"
-metafile = true
-
-[[files]]
 file = "mods/kubejs-borealis.toml"
 hash = "870f0afc783dfc34977e9b8c63fa2c4f97f50ed965f6ec02a8ab0f5d31f02302"
 metafile = true
@@ -1338,11 +1343,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.toml"
 hash = "a2d61a6fbe50ea7c4a93d47b77ce9d5d6bd33c193ab3477c15b43847e45dd9b6"
-metafile = true
-
-[[files]]
-file = "mods/malum.toml"
-hash = "977d20209b58ce643eba4fdc738fc1c4b7a7f269d8dcb75aa9fe6baab3cd9048"
 metafile = true
 
 [[files]]
@@ -1458,6 +1458,16 @@ metafile = true
 [[files]]
 file = "mods/nekos-enchanted-books.toml"
 hash = "772c4539b603b267b9e1db0d6ac26dc487e0c8441ba1995d7672fa06dd979461"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+hash = "9d1a3244c116d5c96132370f81a6713051eeefc2d94610829969d34ad26082e4"
+metafile = true
+
+[[files]]
+file = "mods/nethers-exoticism.pw.toml"
+hash = "a94b62a56b05e64d3ea025520122af55dfba7b017c1f1c6cb8bb3ecbeeb697e8"
 metafile = true
 
 [[files]]
@@ -1661,11 +1671,6 @@ hash = "45dddfcbe90c9ea8a9c695015c785d495380aae5f4f36539ba46717b501c78d1"
 metafile = true
 
 [[files]]
-file = "mods/rechiseled.toml"
-hash = "f0a96ada84b3030eafe8e43feb33e861ef395da354e1e70c202ed6b7dc5e6d5b"
-metafile = true
-
-[[files]]
 file = "mods/redstone-pen.toml"
 hash = "c29dfdfb3c3a0fc5b177b1d123673caf07c52cb50569f782e2bb61671abe7ae1"
 metafile = true
@@ -1788,11 +1793,6 @@ metafile = true
 [[files]]
 file = "mods/serverconfig-updater.toml"
 hash = "7d690a293ac0bb0b1ab71a1b2277964d544fd5bd49ee4d0bb30598f39f3cfcde"
-metafile = true
-
-[[files]]
-file = "mods/sewing-kit.toml"
-hash = "3606a0e9e4ddd95a5a5f9d74f8ab912cb4deb1a92102551be986d7dc3c6fc5ab"
 metafile = true
 
 [[files]]
@@ -7002,10 +7002,6 @@ hash = "ad14c3e0a52bce4f2044bb38f47cee21678c1603d422197428de5f8c1c594f1d"
 [[files]]
 file = "resourcepacks/Create Style Vanilla+Modded v10-1.16.zip"
 hash = "91fd04430521a2e3113871f82b72dd2df3c8722b160832c2684c8d50d4be1457"
-
-[[files]]
-file = "resourcepacks/RefinedPipes - Recreated_1.1.1.zip"
-hash = "498eecdc721800ddb017e194ac1432b52774cfa9e6041c4170f09036c28f73ea"
 
 [[files]]
 file = "resourcepacks/Simply Tea - Rebrewed v1.0.zip"
