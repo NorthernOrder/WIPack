@@ -791,11 +791,6 @@ hash = "03de71470259dd7a418a12f3b3d711171635a27d9c8985f98205ef6761a7c076"
 metafile = true
 
 [[files]]
-file = "mods/custom-machinery.toml"
-hash = "243db2d341b310cada70781389b764bbe38d6ab7c151a52f69de12d2018f34b9"
-metafile = true
-
-[[files]]
 file = "mods/custom-starter-gear.toml"
 hash = "6bf93eb92f157c2d3b0755eba7db2b800d07e7e9296d8637df48c3418c2bc1a7"
 metafile = true
@@ -1353,11 +1348,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.toml"
 hash = "5f8aeba140167da1f80bde0713541615ad1a60fb96972d11ff8a7ff27ef8a681"
-metafile = true
-
-[[files]]
-file = "mods/masterful-machinery.toml"
-hash = "d0f23cfc52ba8d536bcdbd3a713df5d3d23645bba454d835e261e940a2062da7"
 metafile = true
 
 [[files]]
