@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "adc72063553d58a4771e59b4e1d015eae2b9c8db5f164f659eb7c9ca2c1389a6"
+hash = "abc70607af97a77a696ac7fe2bb75c29522fc2f192efd96436bb4eb657b677db"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.pw.toml"
-hash = "6cea5ef7ed4ce8c72a6e5b7b054d7485adfd31654853cc2fea004a07eeff6a89"
+hash = "5ad46e83121622552792dd9547d3c334ba6f43051d75ec700bdf0d8be8f742a5"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "04a92a819f7c3dff89382baf5c5fb25c1386da08ead8510ea009aa1ccc8daf02"
+hash = "4a4742b67901396e0d0a7ea1289279ff5cee2d9d7899fbf64f43c3ab9e062f93"
 metafile = true
 
 [[files]]
@@ -607,7 +607,7 @@ metafile = true
 
 [[files]]
 file = "mods/toast-control.pw.toml"
-hash = "bad023f10c1f3d68273578e04239f7f97abd8af557744c36c848583b3996fc67"
+hash = "c11f61724cb756998b9c23d13a5e43b8bdf6ef078afe41d418ac129dde0d5d3d"
 metafile = true
 
 [[files]]
