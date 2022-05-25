@@ -1237,6 +1237,11 @@ hash = "501c5c6fb28bc761214cd1ef42312650d64fe7c7ebb3cc4c612395df440c96bc"
 metafile = true
 
 [[files]]
+file = "mods/voidtotem.pw.toml"
+hash = "86c2a4ac8a2bf176decd0a607e7f6c64e99ac09c47498de348debeb478e0c447"
+metafile = true
+
+[[files]]
 file = "mods/waddles.pw.toml"
 hash = "1ba651b228f69c50c1d29fb4dacaa17bb17b78de23608127eb84c546e43aea26"
 metafile = true
@@ -6135,8 +6140,3 @@ hash = "ba2ea43e84a0f3628761793f97e6662a3bfc91886be7fecdcc9387b7472a044b"
 [[files]]
 file = "resourcepacks/Updated_Engineering_v1.4.zip"
 hash = "45c2717a5655b1a63ff24d10405f2ee3c0f0dcf497c37ff930928329520b0e46"
-
-[[files]]
-file = "resourcepacks/void-totem.pw.toml"
-hash = "ab72fa005d93ff241fbc1504cbf7d797e772d362b04061ed976881edb64ffa29"
-metafile = true
