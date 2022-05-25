@@ -1,0 +1,13 @@
+name = "Portable Stonecutter"
+filename = "portable_stonecutter-1.16.5-1.3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf07a3b39d8a861ccf61ce24135e9da2035d1505"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3512385
+project-id = 425973

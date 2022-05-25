@@ -1,0 +1,13 @@
+name = "Void Totem"
+filename = "voidtotem6.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f2826868a097168f73c06694387e1151b553a0ae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3667822
+project-id = 585102

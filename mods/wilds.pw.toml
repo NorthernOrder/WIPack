@@ -1,0 +1,13 @@
+name = "Wilds"
+filename = "Wilds Version 2.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4694827e0e6e88667523628bde7ebb6e3f953351"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3456895
+project-id = 513027

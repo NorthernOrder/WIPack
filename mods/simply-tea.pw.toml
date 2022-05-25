@@ -1,0 +1,13 @@
+name = "Simply Tea!"
+filename = "simplytea-1.16.5-2.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d010decf9ecfff8f879547b2a28dce43b3ca6b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3310150
+project-id = 268373

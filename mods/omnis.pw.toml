@@ -1,0 +1,13 @@
+name = "Omnis"
+filename = "omnis-1.16.5-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0b68ad9ab0a852aa1bfdb07e40cb0dc4e18f58c1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3646517
+project-id = 463475
