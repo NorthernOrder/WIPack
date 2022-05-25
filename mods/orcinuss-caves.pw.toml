@@ -1,0 +1,13 @@
+name = "Orcinus's Caves"
+filename = "orcinusscaves-1.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc9e4ecf93ac9153764ad42fdf9ef884b6d92c00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3436979
+project-id = 492376

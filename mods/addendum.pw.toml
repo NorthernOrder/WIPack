@@ -1,0 +1,13 @@
+name = "Addendum (Forge)"
+filename = "addendum-1.16.5-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e6151b8a494d833f9bcd4cb026bbf09238d9a26f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3253392
+project-id = 411162
