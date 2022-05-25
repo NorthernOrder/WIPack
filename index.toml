@@ -548,7 +548,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlling.pw.toml"
-hash = "2869256a89f1013125bbce5fc62265e47012ad09fd3b2cc53f37919bc3c8a042"
+hash = "24d958e2892df16bf19ae4457ba2147df9354ef1520e58636ac17981c2422fc5"
 metafile = true
 
 [[files]]
@@ -628,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "138d294c5111620d2b1d5b0f6d0d0fa364dcf7b5879bb96dc78787e69f13beae"
+hash = "c1f68321b222230fcbd8779afcd405224a537d259f65bd664d6009434e644eef"
 metafile = true
 
 [[files]]
@@ -693,7 +693,7 @@ metafile = true
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
-hash = "ae4c223a49749d38580b208929bf8c33f3fd98d17a88bbdd40cce2088bbade2d"
+hash = "6a354e07c915285068af894a38bf7251f6422a9a7950a2aced0e6cd13177d0c4"
 metafile = true
 
 [[files]]
