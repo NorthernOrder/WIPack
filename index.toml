@@ -209,6 +209,22 @@ file = "kubejs/config/common.properties"
 hash = "faec5ee39e21e6e80d1d40731c5838f68c5e661dea96f1418e44f5881f33d4d9"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/biome/mountains.json"
+hash = "250d779f4a8a36b7c290847c59aedfeae0a319f58605f6dbe35fe340ae83effe"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/biome/river.json"
+hash = "906fbe4d5a69d969ff565429fe205427f26a186a84dfd21cd2b90f3e04f8417c"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/lake_lava.json"
+hash = "c02330cdcbcc1bf8ad18b02c5ffe2b80320cfbb839fec6c7f4d4b2e981a22926"
+
+[[files]]
+file = "kubejs/data/minecraft/worldgen/configured_feature/lake_water.json"
+hash = "c0567c1d19b5e7870bbcbbf11b76738449d6d6989d423b43d57b48e20ec341bd"
+
+[[files]]
 file = "kubejs/data/paraglider/advancements/all_vessels.json"
 hash = "f203fba23625e5c123ac42f2c54558a52ce76a47a2e607eed67f61a96d7f12b5"
 
@@ -908,11 +924,6 @@ metafile = true
 [[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "e6b439f925863d44bc8cb2e6f3fc4adca9bc2a15cf17dfebd08b1455788301d6"
-metafile = true
-
-[[files]]
-file = "mods/upstream.pw.toml"
-hash = "c7c3bfe2c02aa789536101af7b3ca9270f9c241d95e1e9182aae415eb6165eba"
 metafile = true
 
 [[files]]
