@@ -272,6 +272,11 @@ hash = "fe73cc8a6ebf27e85df05a2b16cd7934ffd9b0c56a5a8b4282572711fe747e2b"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "efe039eba90428ac7e10eb3fb19390f8869fcdedcd861a50b99b7c5f01a777f9"
+metafile = true
+
+[[files]]
 file = "mods/alexs-abnormalities.pw.toml"
 hash = "a3b7fafc2329749a0c6f7d7b75573d831186973bff51c3962747955b3df120e6"
 metafile = true
@@ -357,6 +362,11 @@ hash = "eba05a0bf942e403c7d989302d0a6edb2bb3e13417d8317e15c9173ea918e370"
 metafile = true
 
 [[files]]
+file = "mods/balanced-flight.pw.toml"
+hash = "0fe53ae29919e5b91443e46f6963b379ad98a250277487066768e7851dd26bb8"
+metafile = true
+
+[[files]]
 file = "mods/bamboo-blocks.pw.toml"
 hash = "3bdbeabd3ae150139e52bbcc9dd14f2fdb686e6e1fb657c8289f816e0a438bdc"
 metafile = true
@@ -432,6 +442,11 @@ hash = "1748d2042e3f4f31087e4784afae31901ec9684b8b3c9f121d69bc0995214a2e"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "693f2c2d228bec2350e5270d2447d7042254868ef5058a280c450a9556fd8a9e"
+metafile = true
+
+[[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "3319bec988f449918fef2eec8cbb01a1a34d41a1019eb0128594627bef3eafcc"
 metafile = true
@@ -439,6 +454,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "0542b0b4cf6a1406c6325971787095ad4e4bcfefe1ad106e7c6d0db2fdbab401"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "f956d244d9c99ff374ce6cfeb4a9fecf3a76f713f15ea45a05d03ad00e3269e6"
 metafile = true
 
 [[files]]
@@ -544,6 +564,11 @@ metafile = true
 [[files]]
 file = "mods/connected-glass.pw.toml"
 hash = "d521337c21f2bcbe259d6e10e5df070bf2fda6eb28dd5f0a58e21ec833ae8ce6"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+hash = "43c3d098af2f3f60ede43808d64ddeb057a019ae91096c144a3c9ea80d330bb2"
 metafile = true
 
 [[files]]
@@ -912,6 +937,11 @@ hash = "85e07e6f72572918ff305d587f895c64850a2d805e29b243f2f27e0b4aae45e0"
 metafile = true
 
 [[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "af9ee65be5421e82cba68812567e64087314e5bb73dca1f9f4b66857e6b9dcb4"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4a4742b67901396e0d0a7ea1289279ff5cee2d9d7899fbf64f43c3ab9e062f93"
 metafile = true
@@ -1209,6 +1239,11 @@ metafile = true
 [[files]]
 file = "mods/top-addons.pw.toml"
 hash = "cd11c5fca33732c351d91aced7b8c3cce87534f9b6ddecae8a5da25f700a610b"
+metafile = true
+
+[[files]]
+file = "mods/torchmaster.pw.toml"
+hash = "a2c2b6c0747ed1e240bc6cfc4652c36598ed844a96007fc542b7666dc6aadfda"
 metafile = true
 
 [[files]]
