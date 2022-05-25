@@ -752,11 +752,6 @@ hash = "0eb1a0ef1cb415e9a5d380b41e74916378c8f6e7066102b9f2e5117b54653319"
 metafile = true
 
 [[files]]
-file = "mods/no-lakes-in-forge.pw.toml"
-hash = "253b02f12612cb14650d4a3123db76cf4fc25d175ac2b348f00663e15f8a075d"
-metafile = true
-
-[[files]]
 file = "mods/orcinuss-caves.pw.toml"
 hash = "94cdc1416a5c7e1e004a5b6fa50a98969233c6f06770508328db4a3fe2cdeff9"
 metafile = true
